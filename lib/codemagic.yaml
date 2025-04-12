@@ -17,4 +17,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - ТВОЙ_EMAIL@gmail.com
+          - konstantin_kosmozz@mail.ru
