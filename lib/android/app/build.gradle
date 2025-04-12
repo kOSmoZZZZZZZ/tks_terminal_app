@@ -1,0 +1,15 @@
+android {
+    compileSdkVersion 33
+    defaultConfig {
+        applicationId "com.example.tks_terminal_app"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0.0"
+    }
+    buildTypes {
+        release {
+            signingConfig signingConfigs.debug
+        }
+    }
+}
