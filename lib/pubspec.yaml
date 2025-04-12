@@ -1,0 +1,16 @@
+name: tks_terminal_app
+description: TKS Container Terminal App
+version: 1.0.0+1
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  excel: ^2.0.0
+  file_picker: ^5.2.5
+  path_provider: ^2.0.11
+  permission_handler: ^10.2.0
+flutter:
+  uses-material-design: true
